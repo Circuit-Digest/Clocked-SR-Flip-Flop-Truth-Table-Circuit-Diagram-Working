@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Maintained](https://img.shields.io/badge/maintained-yes-success)
 ![Platform](https://img.shields.io/badge/platform-Proteus-blue)
 
 This repository contains supporting media (GIFs and images) for the article on **Clocked SR Flip-Flop**, a key digital electronics component used for data storage and control in synchronized circuits.
